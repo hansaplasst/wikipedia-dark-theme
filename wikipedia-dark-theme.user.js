@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Wikipedia Dark Theme
 // @namespace    http://tampermonkey.net/
-// @version      1.7
+// @version      1.8
 // @description  Auto Enable Wikipedia Dark Theme
 // @author       Hansaplast
 // @match        *://*.wikipedia.org/*
