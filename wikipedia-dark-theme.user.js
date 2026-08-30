@@ -12,8 +12,8 @@
 // @run-at       document-idle
 // @grant        none
 // @license      GPL3
-// @downloadURL  https://update.greasyfork.org/scripts/570311/Wikipedia%20Dark%20Theme.user.js
-// @updateURL    https://update.greasyfork.org/scripts/570311/Wikipedia%20Dark%20Theme.meta.js
+// @downloadURL  https://github.com/hansaplasst/wikipedia-dark-theme/raw/refs/heads/main/wikipedia-dark-theme.user.js
+// @updateURL    https://github.com/hansaplasst/wikipedia-dark-theme/raw/refs/heads/main/wikipedia-dark-theme.user.js
 // ==/UserScript==
 
 (function () {
