@@ -10,10 +10,10 @@
 // @match        *://*.wikisource.org/*
 // @icon         https://en.wikipedia.org/static/favicon/wikipedia.ico
 // @run-at       document-idle
-// @grant        none
 // @license      GPL3
 // @downloadURL  https://github.com/hansaplasst/wikipedia-dark-theme/raw/refs/heads/main/wikipedia-dark-theme.user.js
 // @updateURL    https://github.com/hansaplasst/wikipedia-dark-theme/raw/refs/heads/main/wikipedia-dark-theme.user.js
+// @grant        none
 // ==/UserScript==
 
 (function () {
