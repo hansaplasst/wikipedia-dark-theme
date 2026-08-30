@@ -11,7 +11,7 @@
 // @icon         https://en.wikipedia.org/static/favicon/wikipedia.ico
 // @run-at       document-idle
 // @grant        none
-// @license      GNU GPLv3
+// @license      GPL3
 // @downloadURL  https://update.greasyfork.org/scripts/570311/Wikipedia%20Dark%20Theme.user.js
 // @updateURL    https://update.greasyfork.org/scripts/570311/Wikipedia%20Dark%20Theme.meta.js
 // ==/UserScript==
